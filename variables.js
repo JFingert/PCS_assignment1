@@ -16,19 +16,19 @@ var one = 1
 var two = 2
 var three = 3
 
-var four = (three+two-one)
+var four = (three + two - one)
 
 console.log(four)
 
-(5*4)+10-4
-(5*4)+(10-4)
-(10-4)+5*4
-var n = 10-4+5*4
+(5 * 4) + 10 - 4
+(5 * 4) + (10 - 4)
+(10 - 4) + 5 * 4
+var n = 10 - 4 + 5 * 4
 
 console.log(n)
 
 //string and number concatenation
 
-var zzz = marble1+one+2
+var zzz = marble1 + one + 2
 
 console.log(zzz)
